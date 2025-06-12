@@ -1,0 +1,170 @@
+country,max_factor
+Switzerland,gdp_per_capita
+Iceland,family
+Denmark,family
+Norway,gdp_per_capita
+Canada,gdp_per_capita
+Finland,family
+Netherlands,gdp_per_capita
+Sweden,gdp_per_capita
+"New Zealand",family
+Australia,family
+Israel,family
+"Costa Rica",family
+Austria,gdp_per_capita
+Mexico,family
+"United States",gdp_per_capita
+Brazil,family
+Luxembourg,gdp_per_capita
+Ireland,gdp_per_capita
+Belgium,gdp_per_capita
+"United Arab Emirates",gdp_per_capita
+"United Kingdom",family
+Oman,gdp_per_capita
+Venezuela,family
+Singapore,gdp_per_capita
+Panama,family
+Germany,gdp_per_capita
+Chile,family
+Qatar,gdp_per_capita
+France,gdp_per_capita
+Argentina,family
+"Czech Republic",family
+Uruguay,family
+Colombia,family
+Thailand,family
+"Saudi Arabia",gdp_per_capita
+Spain,family
+Malta,family
+Taiwan,gdp_per_capita
+Kuwait,gdp_per_capita
+Suriname,gdp_per_capita
+"Trinidad and Tobago",gdp_per_capita
+"El Salvador",family
+Guatemala,family
+Uzbekistan,family
+Slovakia,family
+Japan,gdp_per_capita
+"South Korea",gdp_per_capita
+Ecuador,family
+Bahrain,gdp_per_capita
+Italy,family
+Bolivia,family
+Moldova,family
+Paraguay,family
+Kazakhstan,family
+Slovenia,family
+Lithuania,family
+Nicaragua,family
+Peru,family
+Belarus,family
+Poland,family
+Malaysia,gdp_per_capita
+Croatia,gdp_per_capita
+Libya,family
+Russia,family
+Jamaica,family
+"North Cyprus",gdp_per_capita
+Cyprus,gdp_per_capita
+Algeria,family
+Kosovo,family
+Turkmenistan,family
+Mauritius,family
+"Hong Kong",gdp_per_capita
+Estonia,family
+Indonesia,family
+Vietnam,family
+Turkey,family
+Kyrgyzstan,family
+Nigeria,family
+Bhutan,family
+Azerbaijan,gdp_per_capita
+Pakistan,gdp_per_capita
+Jordan,family
+Montenegro,family
+China,family
+Zambia,family
+Romania,gdp_per_capita
+Serbia,family
+Portugal,family
+Latvia,family
+Philippines,family
+"Somaliland region",family
+Morocco,gdp_per_capita
+Macedonia,family
+Mozambique,family
+Albania,gdp_per_capita
+"Bosnia and Herzegovina",family
+Lesotho,family
+"Dominican Republic",family
+Laos,family
+Mongolia,family
+Swaziland,family
+Greece,gdp_per_capita
+Lebanon,gdp_per_capita
+Hungary,family
+Honduras,family
+Tajikistan,family
+Tunisia,gdp_per_capita
+"Palestinian Territories",family
+Bangladesh,family
+Iran,gdp_per_capita
+Ukraine,family
+Iraq,gdp_per_capita
+"South Africa",family
+Ghana,family
+Zimbabwe,family
+Liberia,family
+India,gdp_per_capita
+Sudan,family
+Haiti,family
+"Congo (Kinshasa)",family
+Nepal,family
+Ethiopia,family
+"Sierra Leone",family
+Mauritania,family
+Kenya,family
+Djibouti,family
+Armenia,family
+Botswana,family
+Myanmar,family
+Georgia,gdp_per_capita
+Malawi,freedom
+"Sri Lanka",family
+Cameroon,family
+Bulgaria,family
+Egypt,gdp_per_capita
+Yemen,family
+Angola,family
+Mali,family
+"Congo (Brazzaville)",gdp_per_capita
+Comoros,family
+Uganda,family
+Senegal,family
+Gabon,gdp_per_capita
+Niger,family
+Cambodia,family
+Tanzania,family
+Madagascar,family
+"Central African Republic",freedom
+Chad,family
+Guinea,family
+"Ivory Coast",family
+"Burkina Faso",family
+Afghanistan,family
+Rwanda,family
+Benin,freedom
+Syria,gdp_per_capita
+Burundi,family
+Togo,freedom
+"Puerto Rico",gdp_per_capita
+Belize,family
+Somalia,family
+Namibia,family
+"South Sudan",family
+"Taiwan Province of China",gdp_per_capita
+"Hong Kong S.A.R., China",gdp_per_capita
+"Trinidad & Tobago",family
+"Northern Cyprus",gdp_per_capita
+"North Macedonia",family
+Gambia,family
